@@ -10,27 +10,7 @@
   </picture>
 </div>
 
-
-### 会一点
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,html" />
-</p>
-
-### 我喜欢这个
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java" />
-</p>
-
-### Database
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql" />
-</p>
-
-### 一些工具
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,intellij" />
-</p>
-
 ### 会一点
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -50,3 +30,4 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+</p>
