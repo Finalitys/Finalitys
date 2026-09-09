@@ -2,7 +2,7 @@
   <img src="https://avatars.githubusercontent.com/neKamita" width="150" style="border-radius: 50%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Behruz</h1>
+<h1 align="center">Hi 👋, I'm Finality</h1>
 
 <p align="center">
   <a href="mailto:behruz@example.com">
