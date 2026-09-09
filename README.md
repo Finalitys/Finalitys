@@ -4,7 +4,8 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/neKamita/neKamita/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/neKamita/neKamita/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Finalitys/snack.yml/blob/main/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Finalitys/snack.yml/blob/main/github-snake.svg" />
+    <img alt="github-snake" src="https://github.com/Finalitys/snack.yml/blob/main/github-snake.svg" />
   </picture>
 </div>
