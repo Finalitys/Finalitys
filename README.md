@@ -9,22 +9,20 @@
     <img alt="github-snake" src="https://github.com/Finalitys/snack.yml/blob/main/github-snake.svg" />
   </picture>
 </div>
-### 前端开发
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,tailwind,mui&perline=7" />
-</p>
-
-### 后端开发
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,spring-boot&perline=3" />
-</p>
-
-### 数据库
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&perline=3" />
-</p>
-
-### 工具与 DevOps
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,intellij&perline=6" />
-</p>
+### 区
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+### 我喜欢这个 这才是真正的音乐
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+### 不会
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
+### 工具
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)
